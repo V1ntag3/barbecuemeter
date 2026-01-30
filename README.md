@@ -1,64 +1,96 @@
+# 🔥 Churrascômetro
 
-# Churrascometro
-Pequeno projeto feito no inicio do meu apredizado que serve para calcular a quantidade de itens que devem ser comprados para um churrasco, baseado na quantidade de pessoas que irão,
+Projeto desenvolvido no início do meu aprendizado em programação, com o objetivo de calcular a quantidade ideal de itens para um churrasco, com base no número de pessoas participantes.
 
-## Stack utilizada
+A aplicação auxilia no planejamento, indicando as quantidades aproximadas de carne, bebida e outros itens essenciais.
 
-**Front-end:** HTML, CSS, JavaScript
+---
 
-## Hospedagem
+## 🎯 Objetivo do Projeto
 
-Disponivel em: https://v1ntag3.github.io/churrascometro/
+Este projeto foi criado para:
 
-## Rodando localmente
+- Praticar os fundamentos de desenvolvimento web
+- Trabalhar com lógica em JavaScript
+- Criar aplicações úteis para o dia a dia
+- Consolidar conhecimentos em HTML e CSS
 
-Clone o projeto
-#### É necessário que tenha a extensão Live Server do Visual Studio Code
+---
+
+## 🚀 Funcionalidades
+
+- Cálculo automático dos itens para o churrasco
+- Interface simples e intuitiva
+- Atualização em tempo real dos resultados
+- Layout responsivo
+- Fácil utilização
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+**Front-end:**
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla JS)
+
+---
+
+## 🌐 Hospedagem
+
+O projeto está disponível em:
+
+https://v1ntag3.github.io/churrascometro/
+
+
+---
+
+## ▶️ Como Executar o Projeto Localmente
+
+### 1️⃣ Pré-requisitos
+
+- Visual Studio Code
+- Extensão **Live Server** instalada
+
+---
+
+### 2️⃣ Clonar o Repositório
+
 ```bash
-  git clone https://github.com/V1ntag3/churrascometro
+git clone https://github.com/V1ntag3/churrascometro
 ```
 
-Entre no diretório do projeto
+---
+
+### 3️⃣ Acessar o Diretório
 
 ```bash
-  cd churrascometro
+cd churrascometro
 ```
 
-Abrir visual Studio Code e seguir o tutorial da extensão para rodar o projeto.
+---
+
+### 4️⃣ Abrir no VS Code
 
 ```bash
-  code .
+code .
 ```
 
-## Aprendizados
+---
 
-Consegui botar em prática o básico de HTML, CSS e JavaScript.
+### 5️⃣ Executar com Live Server
 
-## Suporte
+- Clique com o botão direito em `index.html`
+- Selecione **"Open with Live Server"**
 
-Para suporte, mande um email para marcos.vinicius.r.alencar@gmail.com.
+---
 
+## 📚 Aprendizados
 
-## Licença
+Com este projeto foi possível:
 
-MIT License
-
-Copyright (c) 2023 Marcos Vinícius Ribeiro Alencar
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+- Aplicar conceitos básicos de HTML
+- Trabalhar com estilização usando CSS
+- Desenvolver lógica com JavaScript
+- Integrar interface e comportamento
+- Estruturar pequenos projetos web
