@@ -1,4 +1,4 @@
-# 🔥 Churrascômetro
+# 🔥 Barbecuemeter
 
 Projeto desenvolvido no início do meu aprendizado em programação, com o objetivo de calcular a quantidade ideal de itens para um churrasco, com base no número de pessoas participantes.
 
