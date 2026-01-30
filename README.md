@@ -40,7 +40,7 @@ Este projeto foi criado para:
 
 O projeto está disponível em:
 
-https://v1ntag3.github.io/churrascometro/
+https://v1ntag3.github.io/barbecuemeter/
 
 
 ---
